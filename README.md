@@ -15,8 +15,7 @@
  ##### My Github Stats
  ![Wilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilberttt30&show_icons=true&theme=dark)
 
- <div align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=Wilberttt30&theme=dark&column=2&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
- </div>
+
+<img src="https://github-profile-trophy.vercel.app?username=Wilberttt30&theme=dark&column=2&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
  <img src="https://raw.githubusercontent.com/Wilberttt30/Wilberttt30/output/snake.svg" alt="Snake animation" />
